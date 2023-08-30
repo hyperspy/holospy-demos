@@ -4,6 +4,6 @@ channels:
 dependencies:
   - hyperspy-base>=1.7.0
   - hyperspy-gui-ipywidgets>=1.5.0
-  - ipympl
+  - holospy
   - scikit-learn
 

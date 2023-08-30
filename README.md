@@ -1,15 +1,15 @@
-# HyperSpy demos
+# Holospy demos
 
-[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/main)
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/main/)
-[![Documentation Status](https://readthedocs.org/projects/hyperspy/badge/?version=stable)](http://hyperspy.readthedocs.io/en/stable/?badge=stable)
+[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hyperspy/holospy-demos/main)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.ipython.org/github/hyperspy/holospy-demos/tree/main/)
+[![Documentation Status](https://readthedocs.org/projects/holospy/badge/?version=stable)](https://holospy.readthedocs.io/en/stable/?badge=stable)
 
 ## Introduction
 
-This repository contains [Jupyter Notebooks](http://jupyter.org/) to demo and learn
-how to process multi-dimensional data with [HyperSpy](http://hyperspy.org). For
+This repository contains [Jupyter Notebooks](https://jupyter.org/) to demo and learn
+how to process electron holography data with [Holospy](https://holospy.readthedocs.io). For
 learning purposes, we recommend to use them alongside the 
-[HyperSpy User Guide](http://hyperspy.org/hyperspy-doc/current/index.html).
+[HoloSpy User Guide](https://holospy.readthedocs.io).
 
 The root folder contains notebooks concerning general HyperSpy features while
 the subfolders contain notebooks for specific signals and other more specialized
@@ -19,9 +19,9 @@ analyses.
 
 ### (Interactive) Running the demos online
 
-[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/main)
+[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hyperspy/holospy-demos/main)
 
-Follow [this link](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/main)
+Follow [this link](https://mybinder.org/v2/gh/hyperspy/holospy-demos/main)
 or click the "launch binder" banner above to run the the demos on 
 [mybinder.org](https://mybinder.org/). The demos will run remotely, 
 and one can experiment with HyperSpy in a Jupyter notebook with no need 
@@ -33,20 +33,20 @@ visualization, see below.
 
 ### (Non-interactive) Visualizing the demos online
 
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/main/)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/hyperspy/holospy-demos/tree/main/)
 
-Follow [this link](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/main/) 
+Follow [this link](http://nbviewer.ipython.org/github/hyperspy/holospy-demos/tree/main/) 
 or click on the "render nbviewer" banner above
 to display the demos with the 
 [Jupyter Notebook viewer](http://nbviewer.jupyter.org). 
 [nbviewer](http://nbviewer.jupyter.org/) will allow you to view the notebooks online,
 but you will not be able to change them or evaluate any code, like is possible with the 
-[binder](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/main).
+[binder](https://mybinder.org/v2/gh/hyperspy/holospy-demos/main).
 
 ### Running and visualizing the demos locally
 
 To run the demo notebooks locally, 
-clone or download the [demos repository](https://github.com/hyperspy/hyperspy-demos) 
+clone or download the [demos repository](https://github.com/hyperspy/holospy-demos) 
 to your local
 machine, install HyperSpy and
 [Jupyter Lab](http://jupyterlab.readthedocs.io/en/latest/) or 
@@ -79,7 +79,7 @@ repository and send us a pull request. See the
 for more details on how to contribute to HyperSpy.
 
 For issues and discussions fill a new
-issue in [the demos github repository](https://github.com/hyperspy/hyperspy-demos)
+issue in [the demos github repository](https://github.com/hyperspy/holospy-demos)
 or discuss it in [HyperSpy's gitter chat](https://gitter.im/hyperspy/hyperspy).
 
 
