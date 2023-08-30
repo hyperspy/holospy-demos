@@ -56,3 +56,4 @@ docs/_build/
 .ipynb_checkpoints
 *.DS_Store
 
+.virtual_documents/*
